@@ -8,8 +8,8 @@ This repo code and data is dual licensed as GNU GPL V3 and proprietary license. 
 
 Team Member
 -----------
-Haris Hashim
-Hasnan Hasim
-Habib Talib
-Muhamad Hafiz
+Haris Hashim,
+Hasnan Hasim,
+Habib Talib,
+Muhamad Hafiz,
 Fariz Lukman
